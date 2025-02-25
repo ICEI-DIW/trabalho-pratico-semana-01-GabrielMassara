@@ -3,11 +3,10 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gabriel Evangelista Massara
+Matricula: 885810
 
 ## Tela de inspeção com navegador
-
 
 ## Tela de projeto no Replit
 
