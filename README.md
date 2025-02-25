@@ -7,6 +7,8 @@ Nome: Gabriel Evangelista Massara
 Matricula: 885810
 
 ## Tela de inspeção com navegador
+<img src="print1.PNG">
 
 ## Tela de projeto no Replit
+<img src="print_replit.PNG">
 
