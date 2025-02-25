@@ -11,4 +11,3 @@ Matricula: 885810
 
 ## Tela de projeto no Replit
 <img src="print_replit.PNG">
-
